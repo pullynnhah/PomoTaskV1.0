@@ -13,4 +13,15 @@ The user can run the code to add tasks or see their progress, or they can use th
 A task has the following structure:
 - Project
     - Task
-        - Subtasks
+
+## TASK INTERFACE
+
+I have hard coded the opening of the file in the init to test how the spinbox works.  
+
+So now the user can either add a new project or choose from one of his previous tasks.   
+
+He can not choose the two options one must be left blank.
+
+If he create a new task the fields for new task and new project are clean up the selection for project in the spinbox is not.
+
+I'm considering using a Text so he can add multiple tasks at once.

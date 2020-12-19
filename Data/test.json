@@ -1,0 +1,30 @@
+{
+    "Project 1": {
+        "Task 1": {
+            "Status": "Completed",
+            "Duration": 15.6
+        },
+        "Task 2": {
+            "Status": "On going",
+            "Duration": 7.5
+        },
+        "Task 3": {
+            "Status": "Not Started",
+            "Duration": 0.0
+        }
+    },
+    "Project 2": {
+        "Task 1": {
+            "Status": "Completed",
+            "Duration": 15.6
+        },
+        "Task 2": {
+            "Status": "On going",
+            "Duration": 7.5
+        },
+        "Task 3": {
+            "Status": "Not Started",
+            "Duration": 0.0
+        }
+    }
+}
