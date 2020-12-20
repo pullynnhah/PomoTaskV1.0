@@ -16,12 +16,5 @@ A task has the following structure:
 
 ## TASK INTERFACE
 
-I have hard coded the opening of the file in the init to test how the spinbox works.  
-
-So now the user can either add a new project or choose from one of his previous tasks.   
-
-He can not choose the two options one must be left blank.
-
-If he create a new task the fields for new task and new project are clean up the selection for project in the spinbox is not.
-
-I'm considering using a Text so he can add multiple tasks at once.
+## JSON FILE
+I have created a json file with the structure I want for the .json file for the data. The duration is in minutes and is an integer always. 
