@@ -10,7 +10,7 @@ class ProjectData:
             data = json.load(file)
         return data
 
-    def update_data(self, new_data):
+    def update_project(self, new_data):
         data = self.get_data()
         data["Projects"].append(new_data)
         with open(self.filename, "w") as file:
